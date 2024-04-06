@@ -8,7 +8,9 @@ This is the right carriage from the official voron 2.4 repo with a Euclid probe 
 
 
 ## Model Images
-![Image](./img/euclid_carriage.png)
+![Image](./img/euclid_carriage_1.png)
+
+![Image](./img/euclid_carriage_2.png)
 
 
 
